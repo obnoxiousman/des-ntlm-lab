@@ -1,8 +1,8 @@
 ###################
  DES in C
 ###################
-C implementation of Data Encryption Standard algorithm. |br|
-Did you come here from https://obman.pikapod.net/books/active-directory/page/understanding-ntlm ?
+C implementation of Data Encryption Standard algorithm.
+Did you come here from https://obman.pikapod.net/books/active-directory/page/understanding-ntlm
 
 Overview
 ========
